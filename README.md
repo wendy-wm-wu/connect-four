@@ -1,7 +1,7 @@
 # Connect Four
-<!-- <p align='center'>
-  <img src="https://github.com/wendy-wm-wu/book_connection/blob/master/book-connection-demo.gif" width="700px" align="center"/>
-</p>    -->
+<p align='center'>
+  <img src="https://github.com/wendy-wm-wu/connect-four/blob/master/connect_four.pnggit " width="700px" align="center"/>
+</p>   
 
 > The first player begins by dropping his/her yellow disc into the center column of the game board. The two players then alternate turns dropping one of their discs at a time into an unfilled column, until the second player, with red discs, achieves four discs in a row, diagonally, and wins. If the game board fills before either player achieves four in a row, then the game is a draw.
 
